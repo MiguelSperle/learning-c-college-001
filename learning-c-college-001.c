@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+#include <stdlib.h> // Para usar system
 #include <string.h>  // Para usar strcpy
 
 int main() {
